@@ -21,10 +21,14 @@ color: black;
  *{
   box-sizing: border-box;
 }
-
-.row h4{
-  text-align: center;
+.row h4
+{
+    text-align: center;
+  font-family: 'lora',serif;
+  font-weight: bold;
+  font-size: 30px
 }
+
 
 p {
     font-family: Sans-Serif;
@@ -44,7 +48,8 @@ p {
 }
 
 #p1 {
-  font-family: 'lora',serif;
+     font-family: 'lora',serif;
+     font-color:black;
      font-size:15px;
      text-align:center;
      font-weight: bold;
@@ -54,6 +59,7 @@ p {
      font-size:15px;
      text-align:center;
      font-weight: bold;
+	font-color:black;
 
 }
 #p3 {
@@ -61,12 +67,14 @@ p {
      font-size:15px;
      text-align:center;
      font-weight: bold;
+	font-color:black;
 
 
 .row {
   width: 100%;
 
 }
+	
 
 
 /********** Large devices only **********/
@@ -111,8 +119,10 @@ p {
   .col-lg-12 {
     width: 100%;
   }
-
-  
+.navbar-menu ul{ 
+	display:none;
+	
+	}
 }
 
 /********** Medium devices only **********/
@@ -157,6 +167,8 @@ p {
   .col-md-12 {
     width: 100%;
   }
+	.navbar-menu ul{ 
+	display:none;
 }
 
 /********** Mobile only **********/
