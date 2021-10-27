@@ -96,8 +96,8 @@ p {
      width: 100px;
      position:absolute;
      top:5px;
-     right:-5px;
-     padding:2px 30px 30px 2px;
+     left:-5px;
+     padding:2px 30px 2px 30px;
      font-family: 'lora',serif;
      font-color:black;
      font-size:20px;
