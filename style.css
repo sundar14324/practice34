@@ -28,17 +28,20 @@ color: black;
   font-weight: bold;
   font-size: 30px
 }
-h1 {
+h1 { 
 	font-size:13px;
 	font-weight:bold;
+	text-align:center;
 }
 h2 {
 	font-size:13px;
 	font-weight:bold;
+	text-align:center;
 }
 h3 {
 	font-size:13px;
 	font-weight:bold;
+	text-align:center;
 }
 
 p {
@@ -52,11 +55,6 @@ p {
   overflow: default;
 }
 
-
-#container {
-  position: relative;
-  
-}
 
 #p1 {
      font-family: 'lora',serif;
