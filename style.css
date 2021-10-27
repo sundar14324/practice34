@@ -80,8 +80,8 @@ p {
      font-weight: bold;
 	font-color:black;
 
-@media (min-width:768px) .navbar-media h1{
-	display:none
+@media (min-width:768px) .navbar-media ul{
+	display:none;
 	}
 	
 .row {
