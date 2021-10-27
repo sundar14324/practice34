@@ -78,7 +78,7 @@ p {
      font-weight: bold;
 	font-color:black;
 
-@media (min-width:768px) .navbar-media ul{
+@media (min-width:768px) #navbar-media ul{
 	display:none;
 	}
 	
