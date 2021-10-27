@@ -86,6 +86,11 @@ p {
   width: 100%;
 
 }
+	@media (min-width:770) and (max-width:1100)
+		#navbar-media ul h1{
+	display:none;
+	}
+
 
 
 
@@ -131,10 +136,7 @@ p {
   .col-lg-12 {
     width: 100%;
   }
-	#navbar-media ul h1{
-	display:none;
-	}
-
+	
 }
 
 /********** Medium devices only **********/
@@ -178,9 +180,7 @@ p {
   }
   .col-md-12 {
     width: 100%;
-  } #navbar-media ul h1{
-	visibility:hidden;
-	}
+  }
 	
 	}
 /********** Mobile only **********/
