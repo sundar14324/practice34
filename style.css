@@ -74,6 +74,9 @@ p {
   width: 100%;
 
 }
+	.navbar-menu ul{ 
+	display:none;
+	}
 	
 
 
