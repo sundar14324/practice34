@@ -87,7 +87,7 @@ p {
 
 }
 	@media (min-width:770) and (max-width:1100)
-		#navbar-media ul h1{
+		.navbar-media ul h1{
 	display:none;
 	}
 
