@@ -60,6 +60,7 @@ p {
 
 
 #p1 {    
+	border:hidden;
      height: 15px;
      width: 100px;
      position:absolute;
