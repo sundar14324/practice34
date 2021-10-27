@@ -74,19 +74,36 @@ p {
      font-weight: bold;
 }
 #p2 {
-  font-family: 'lora',serif;
+    
+	border:hidden;
+     height: 15px;
+     width: 100px;
+     position:absolute;
+     top:0;
+     right:10px;
+     padding:10px;
+     font-family: 'lora',serif;
+     font-color:black;
      font-size:15px;
      text-align:center;
      font-weight: bold;
-	font-color:black;
 
 }
 #p3 {
- font-family: 'lora',serif;
+	  
+	border:hidden;
+     height: 15px;
+     width: 100px;
+     position:absolute;
+     top:5px;
+     right:10px;
+     padding:2px 2px 2px 2px;
+     font-family: 'lora',serif;
+     font-color:black;
      font-size:15px;
      text-align:center;
      font-weight: bold;
-	font-color:black;
+}
 
    
 	
